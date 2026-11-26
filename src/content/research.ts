@@ -257,7 +257,7 @@ export const team: Array<{
   contribution: string
   photo?: string
 }> = [
-  { name: 'Group Member 1', role: 'Project Lead & Researcher', contribution: 'Introduction and background research', photo: '' },
+  { name: 'Carubio, Prince Andrew D.', role: 'Project Lead & Researcher', contribution: 'Introduction and background research', photo: '/img/Carubio.jpg' },
   { name: 'Group Member 2', role: 'Researcher & Writer', contribution: 'Review of related studies', photo: '' },
   { name: 'Group Member 3', role: 'Data & Infographics', contribution: 'Tables, charts, and figures', photo: '' },
   { name: 'Group Member 4', role: 'Web Designer', contribution: 'Layout, theme, and visual design', photo: '' },
