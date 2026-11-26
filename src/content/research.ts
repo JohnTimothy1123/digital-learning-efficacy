@@ -257,11 +257,16 @@ export const team: Array<{
   contribution: string
   photo?: string
 }> = [
-  { name: 'Carubio, Prince Andrew D.', role: 'Project Lead & Researcher', contribution: 'Introduction and background research', photo: '/img/Carubio.jpg' },
-  { name: 'Group Member 2', role: 'Researcher & Writer', contribution: 'Review of related studies', photo: '' },
-  { name: 'Group Member 3', role: 'Data & Infographics', contribution: 'Tables, charts, and figures', photo: '' },
-  { name: 'Group Member 4', role: 'Web Designer', contribution: 'Layout, theme, and visual design', photo: '' },
-  { name: 'Group Member 5', role: 'Web Developer', contribution: 'Building and publishing the website', photo: '' },
+  { name: 'Africa, Szan Lester P.', role: 'Project Lead & Researcher', contribution: 'Introduction and background research', photo: '/img/Africa.jpg' },
+  { name: 'Carubio, Prince Andrew D.', role: 'Researcher & Writer', contribution: 'Introduction and Background', photo: '/img/Carubio.jpg' },
+  { name: 'Magnaye, Matthew D.', role: 'Data & Infographics', contribution: 'Introduction and Background', photo: '/img/Magnaye.jpg' },
+  { name: 'Magtibay, John Jayden T.', role: 'Web Designer', contribution: 'Introduction and Background', photo: '/img/Magtibay.jpg' },
+  { name: 'Montalbo, Lhance Dominic D.', role: 'Web Developer', contribution: 'Building and publishing the website', photo: '/img/Montalbo.jpg' },
+  { name: 'Pedriña, Carl Andrei G.', role: 'Data & Infographics', contribution: 'Tables, charts, and figures', photo: '/img/Pedrina.jpg' },
+  { name: 'Renonos, John Timothy Q.', role: 'Web Designer', contribution: 'Layout, theme, and visual design', photo: '/img/2x2 formal.jpg' },
+  { name: 'Salgado, Mart Jaybie P.', role: 'Web Designer', contribution: 'Introduction and Background', photo: '/img/Salgado.jpg' },
+  { name: 'Ventocilla, Zoe Krizzia A.', role: 'Web Developer', contribution: 'Building and publishing the website', photo: '/img/Ventocilla.jpg' },
+  { name: 'Villarez, Euiza Nhea B.', role: 'Web Developer', contribution: 'Building and publishing the website', photo: '/img/Villarez.jpg' },
 ]
 
 export const course = {
