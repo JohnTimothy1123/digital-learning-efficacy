@@ -257,16 +257,16 @@ export const team: Array<{
   contribution: string
   photo?: string
 }> = [
-  { name: 'Africa, Szan Lester P.', role: 'Project Lead & Researcher', contribution: 'Introduction and background research', photo: '/img/Africa.jpg' },
+  { name: 'Africa, Szan Lester P.', role: 'Researcher & Writer', contribution: 'Introduction and background research', photo: '/img/Africa.jpg' },
   { name: 'Carubio, Prince Andrew D.', role: 'Researcher & Writer', contribution: 'Introduction and Background', photo: '/img/Carubio.jpg' },
   { name: 'Magnaye, Matthew D.', role: 'Data & Infographics', contribution: 'Introduction and Background', photo: '/img/Magnaye.jpg' },
   { name: 'Magtibay, John Jayden T.', role: 'Web Designer', contribution: 'Introduction and Background', photo: '/img/Magtibay.jpg' },
   { name: 'Montalbo, Lhance Dominic D.', role: 'Web Developer', contribution: 'Building and publishing the website', photo: '/img/Montalbo.jpg' },
-  { name: 'Pedriña, Carl Andrei G.', role: 'Data & Infographics', contribution: 'Tables, charts, and figures', photo: '/img/Pedrina.jpg' },
-  { name: 'Renonos, John Timothy Q.', role: 'Web Designer', contribution: 'Layout, theme, and visual design', photo: '/img/2x2 formal.jpg' },
+  { name: 'Pedriña, Carl Andrei G.', role: 'Researcher & Writer', contribution: 'Tables, charts, and figures', photo: '/img/Pedrina.jpg' },
+  { name: 'Renonos, John Timothy Q.', role: 'Project Lead & Researcher', contribution: 'Layout, theme, and visual design', photo: '/img/2x2 formal.jpg' },
   { name: 'Salgado, Mart Jaybie P.', role: 'Web Designer', contribution: 'Introduction and Background', photo: '/img/Salgado.jpg' },
   { name: 'Ventocilla, Zoe Krizzia A.', role: 'Web Developer', contribution: 'Building and publishing the website', photo: '/img/Ventocilla.jpg' },
-  { name: 'Villarez, Euiza Nhea B.', role: 'Web Developer', contribution: 'Building and publishing the website', photo: '/img/Villarez.jpg' },
+  { name: 'Villarez, Euiza Nhea B.', role: 'Data & Infographics', contribution: 'Building and publishing the website', photo: '/img/Villarez.jpg' },
 ]
 
 export const course = {
