@@ -262,10 +262,10 @@ export const team: Array<{
   { name: 'Magnaye, Matthew D.', role: 'Data & Infographics', contribution: 'Introduction and Background', photo: '/img/Magnaye.jpg' },
   { name: 'Magtibay, John Jayden T.', role: 'Web Designer', contribution: 'Introduction and Background', photo: '/img/Magtibay.jpg' },
   { name: 'Montalbo, Lhance Dominic D.', role: 'Web Developer', contribution: 'Building and publishing the website', photo: '/img/Montalbo.jpg' },
-  { name: 'Pedriña, Carl Andrei G.', role: 'Researcher & Writer', contribution: 'Tables, charts, and figures', photo: '/img/Pedrina.jpg' },
-  { name: 'Renonos, John Timothy Q.', role: 'Project Lead & Researcher', contribution: 'Layout, theme, and visual design', photo: '/img/2x2 formal.jpg' },
+  { name: 'Pedriña, Carl Andrei G.', role: 'Researcher & Writer', contribution: 'Discussion of the Assigned Topic', photo: '/img/Pedrina.jpg' },
+  { name: 'Renonos, John Timothy Q.', role: 'Project Lead & Researcher', contribution: 'Discussion of the Assigned Topic', photo: '/img/2x2 formal.jpg' },
   { name: 'Salgado, Mart Jaybie P.', role: 'Web Designer', contribution: 'Introduction and Background', photo: '/img/Salgado.jpg' },
-  { name: 'Ventocilla, Zoe Krizzia A.', role: 'Web Developer', contribution: 'Building and publishing the website', photo: '/img/Ventocilla.jpg' },
+  { name: 'Ventocilla, Zoe Krizzia A.', role: 'Web Developer', contribution: 'Discussion of the Assigned Topic', photo: '/img/Ventocilla.jpg' },
   { name: 'Villarez, Euiza Nhea B.', role: 'Data & Infographics', contribution: 'Building and publishing the website', photo: '/img/Villarez.jpg' },
 ]
 
